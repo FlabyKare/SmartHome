@@ -110,7 +110,7 @@ h6 {
 }
 
 #preloader {
-  background: #003442;
+  background: #59127f;
   position: fixed;
   top: 0;
   left: 0;
@@ -129,7 +129,7 @@ h6 {
   margin: -75px 0 0 -75px;
   border-radius: 50%;
   border: 3px solid transparent;
-  border-top-color: #00ffd0;
+  border-top-color: #a12fb1;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
 }
@@ -143,7 +143,7 @@ h6 {
   bottom: 5px;
   border-radius: 50%;
   border: 3px solid transparent;
-  border-top-color: #00ffd0;
+  border-top-color: #a12fb1;
   -webkit-animation: spin 3s linear infinite;
   animation: spin 3s linear infinite;
 }
@@ -157,7 +157,7 @@ h6 {
   bottom: 15px;
   border-radius: 50%;
   border: 3px solid transparent;
-  border-top-color: #00ffd0;
+  border-top-color: #a12fb1;
   -webkit-animation: spin 1.5s linear infinite;
   animation: spin 1.5s linear infinite;
 }
